@@ -1,0 +1,10 @@
+/rslidar_packets:
+  durability: volatile
+  history: keep_all
+  reliability: reliable
+
+
+/rslidar_points:
+  durability: volatile
+  history: keep_all
+  reliability: reliable
